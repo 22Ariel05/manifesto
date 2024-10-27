@@ -1,8 +1,20 @@
 # 🚀 SvelteKit Boilerplates
 
-This repository contains a collection of SvelteKit boilerplates designed to accelerate app development by providing ready-to-use configurations. Each boilerplate addresses specific needs, with options for Docker, Prisma, or authentication integration.
+This repository contains a very simple SvelteKit boilerplate. 
+It contains the basic structure of a SvelteKit project with a few additional features :
+Good file structure and config, style file, layout with header and footer, nav bar, transition between pages, empty canvas as bg.
 
-## Available Boilerplates
+## usage
+
+```bash
+npx degit RodolpheANDRIEUX/Boilerplate-Sveltekit my-sveltekit-app
+cd my-sveltekit-app
+npm install
+npm run dev
+```
+
+
+## Other Available Boilerplates
 
 - [Boilerplate SvelteKit](https://github.com/RodolpheANDRIEUX/Boilerplate-Sveltekit)
   <br><br>
