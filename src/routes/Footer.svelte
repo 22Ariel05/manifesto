@@ -51,13 +51,6 @@
         gap: 20px;
     }
 
-    footer #ynov-footer-logo {
-        padding: 0 30px;
-        background: var(--color-bg-0);
-        height: 110px;
-        background-blend-mode: exclusion;
-    }
-
     a {
         transition: transform .3s;
     }
