@@ -16,9 +16,9 @@ npm run dev
 ## Docker
 
 ```bash
-docker build -t my-sveltekit-app .
-docker run -it --rm -p 3000:3000 my-sveltekit-app
+docker-compose up
 ```
+> The app will be available at http://localhost:3000 How easy is that?
 
 ## Other Available Boilerplates
 
