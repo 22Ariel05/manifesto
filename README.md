@@ -13,19 +13,20 @@ npm install
 npm run dev
 ```
 
+## Docker
+
+```bash
+docker build -t my-sveltekit-app .
+docker run -it --rm -p 3000:3000 my-sveltekit-app
+```
 
 ## Other Available Boilerplates
 
 - [Boilerplate SvelteKit](https://github.com/RodolpheANDRIEUX/Boilerplate-Sveltekit)
   <br><br>
-- [Boilerplate SvelteKit *Dockerized*](https://github.com/RodolpheANDRIEUX/Boilerplate-Sveltekit-d)
-  <br><br>
 - [Boilerplate SvelteKit + Prisma](https://github.com/RodolpheANDRIEUX/Boilerplate-Sveltekit-Prisma)
-  <br><br>
-- [Boilerplate SvelteKit + Prisma *Dockerized*](https://github.com/RodolpheANDRIEUX/Boilerplate-Sveltekit-Prisma-d)
   <br><br>
 - [Boilerplate SvelteKit + JWT Authentication](https://github.com/RodolpheANDRIEUX/Boilerplate-Sveltekit-Authentification)
   <br><br>
-- [Boilerplate SvelteKit + JWT Authentication *Dockerized*](https://github.com/RodolpheANDRIEUX/Boilerplate-Sveltekit-Authentification-d)
 
 >Each link leads to a dedicated GitHub repository with its own documentation.
